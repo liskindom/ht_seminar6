@@ -1,0 +1,14 @@
+C:\Users\37529\Desktop\rekursiya\ht_1\bin\Debug\net8.0\ht_1.exe
+C:\Users\37529\Desktop\rekursiya\ht_1\bin\Debug\net8.0\ht_1.deps.json
+C:\Users\37529\Desktop\rekursiya\ht_1\bin\Debug\net8.0\ht_1.runtimeconfig.json
+C:\Users\37529\Desktop\rekursiya\ht_1\bin\Debug\net8.0\ht_1.dll
+C:\Users\37529\Desktop\rekursiya\ht_1\bin\Debug\net8.0\ht_1.pdb
+C:\Users\37529\Desktop\rekursiya\ht_1\obj\Debug\net8.0\ht_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37529\Desktop\rekursiya\ht_1\obj\Debug\net8.0\ht_1.AssemblyInfoInputs.cache
+C:\Users\37529\Desktop\rekursiya\ht_1\obj\Debug\net8.0\ht_1.AssemblyInfo.cs
+C:\Users\37529\Desktop\rekursiya\ht_1\obj\Debug\net8.0\ht_1.csproj.CoreCompileInputs.cache
+C:\Users\37529\Desktop\rekursiya\ht_1\obj\Debug\net8.0\ht_1.dll
+C:\Users\37529\Desktop\rekursiya\ht_1\obj\Debug\net8.0\refint\ht_1.dll
+C:\Users\37529\Desktop\rekursiya\ht_1\obj\Debug\net8.0\ht_1.pdb
+C:\Users\37529\Desktop\rekursiya\ht_1\obj\Debug\net8.0\ht_1.genruntimeconfig.cache
+C:\Users\37529\Desktop\rekursiya\ht_1\obj\Debug\net8.0\ref\ht_1.dll
